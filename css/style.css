@@ -1,0 +1,189 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F4E3FD;
+}
+
+/* main container */
+.main-container-section {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #ffffff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    }
+ul {
+    margin-left: 17px;
+    padding: 0px;
+}
+
+/* main content section */
+.main-content-section {
+    padding: 100px 90px;
+}
+.sections-headline {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin: 0 0 10px 0;
+}
+.bodytext {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 15px;
+}
+
+/* about me section */
+.about-me-profession {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+    margin: 0 0 20px 0;
+}
+.about-me-name {
+    font-style: normal;
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+    margin: 0 0 25px 0;
+}
+.summary {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    width: 500px;
+    margin-bottom: 40px;
+}
+
+/* projects section */
+a {
+    color: #595959;
+}
+.projects-section {
+    margin-bottom: 50px;
+}
+ol {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+    margin-left: 17px;
+    padding: 0px;
+}
+.projects-parentheses {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.bodytext-project {
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+
+/* work experience section */
+.work-experience-section {
+    margin-bottom: 50px;
+}
+.profession-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: black;
+    margin: 0 0 10px 0;
+}
+.company-name {
+    color: #60297B;
+    margin: 0 0 10px 0;
+}
+.company-time {
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin: 0 0 10px 0;
+}
+.line {
+    color: black;
+    margin: 0 0 10px 0;
+}
+
+/* education section */
+h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: black;
+    margin: 0 0 10px 0;
+}
+
+/* sidebar container */
+.sidebar-section {
+    background-color: #2C053F;
+    color: white;
+    width: 370px;
+}
+.photo-cv {
+    display: block;
+    margin-top: 40px;
+}
+.sidebar-headline {
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    color: white;
+    margin: 45px 0px 10px 40px;
+}
+
+/* contacts section */
+.contact-type {
+    margin-left: 40px;
+    margin-right: 5px;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.contact-link {
+    color: #95829f;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* skills section */
+.skill-list {
+    color: #FB6D3A;
+    margin-left: 57px;
+}
+.skill {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+/* qr-code section */
+.qr-code-img {
+    display: block;
+    margin: 20px auto 40px 40px;
+}
